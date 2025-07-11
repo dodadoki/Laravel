@@ -1,6 +1,6 @@
 Laravel Framework Project - Variant 2
 A comprehensive web application built with Laravel framework demonstrating modern PHP development practices and the advantages of using a framework over native PHP.
-📋 Table of Contents
+ Table of Contents
 
 About
 Features
@@ -13,7 +13,7 @@ Contributing
 License
 Contact
 
-🎯 About
+ About
 This Laravel project serves as a demonstration of modern PHP framework development, showcasing the significant advantages of using Laravel over native PHP. The application includes comprehensive user management functionality with authentication, message handling, and dynamic interactions.
 Purpose: This project demonstrates the difference between working with native PHP and a modern framework by implementing the same core features from a native PHP version (Variant 1) and enhancing them using Laravel's robust architecture and tools.
 Key Objectives:
@@ -23,7 +23,7 @@ Demonstrate modern PHP development with framework benefits
 Highlight improved code organization, security, and maintainability
 Provide practical examples of Laravel's core features in action
 
-✨ Features
+ Features
 
 User Management System
 
@@ -58,7 +58,7 @@ Mobile-friendly layout
 
 
 
-🛠️ Technologies Used
+ Technologies Used
 
 Backend Framework: Laravel (PHP)
 Database: MySQL
@@ -75,7 +75,7 @@ Request Validation: Form validation via Request classes
 Middleware: Route protection and authentication
 Authentication: Built-in user authentication system
 
-📦 Installation
+ Installation
 Prerequisites
 
 PHP 8.0 or higher
@@ -93,7 +93,7 @@ cd laravel-framework-project
 Alternative: Download from Google Drive
 If you prefer to download the project files directly:
 https://drive.google.com/drive/folders/1m8HZEHhrOV2JYTR8DPGV8JDJ-v5sA7TH?usp=drive_link
-📁 Download Project Files
+ Download Project Files
 
 Click the link above to access the Google Drive folder
 Download all files to your local machine
@@ -137,7 +137,7 @@ Message Management: Send, receive, and organize messages
 Responsive Design: Test on different screen sizes
 AJAX Interactions: Experience dynamic content updates
 
-📁 Project Structure
+ Project Structure
 laravel-framework-project/
 ├── app/
 │   ├── Http/
@@ -178,7 +178,7 @@ resources/views/ - Blade templates
 database/migrations/ - Database schema migrations
 routes/web.php - Web routes definition
 
-🔄 Laravel vs Native PHP Comparison
+ Laravel vs Native PHP Comparison
 This project demonstrates the advantages of using Laravel framework over native PHP:
 Laravel Advantages (Variant 2)
 
@@ -199,7 +199,7 @@ Limited template organization
 Manual session and authentication handling
 
 
-🤝 Contributing
+ Contributing
 
 Fork the project
 Create your feature branch (git checkout -b feature/AmazingFeature)
@@ -207,9 +207,9 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-📝 License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
-📧 Contact
+ Contact
 Teodora Kuburović
 
 Email: teakuburovic@gmail.com
@@ -217,8 +217,8 @@ GitHub: @dodadoki
 LinkedIn: Teodora Kuburović
 
 
-⭐ If you found this project helpful, please give it a star!
-🎓 Educational Purpose
+ If you found this project helpful, please give it a star!
+ Educational Purpose
 This project was developed as part of coursework to demonstrate the practical differences between native PHP development and modern framework usage. It serves as a learning resource for understanding Laravel's core concepts and best practices in modern PHP development.
 
 
