@@ -86,14 +86,11 @@ Node.js and npm (for Tailwind CSS compilation)
 
 Steps
 
-Clone the repository
-bashgit clone https://github.com/yourusername/laravel-framework-project.git
-cd laravel-framework-project
 
-Alternative: Download from Google Drive
-If you prefer to download the project files directly:
+ Download from Google Drive
 https://drive.google.com/drive/folders/1m8HZEHhrOV2JYTR8DPGV8JDJ-v5sA7TH?usp=drive_link
- Download Project Files
+
+Download Project Files
 
 Click the link above to access the Google Drive folder
 Download all files to your local machine
